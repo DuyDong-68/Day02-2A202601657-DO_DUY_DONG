@@ -35,3 +35,6 @@ Tôi đóng góp ở phần scan problem ban đầu, chọn và làm rõ problem
 
 **Nếu làm lại, tôi sẽ challenge nhóm mạnh hơn ở điểm nào?**  
 Nếu làm lại, tôi sẽ challenge nhóm mạnh hơn ở phần evidence và boundary. Cụ thể, tôi sẽ hỏi kỹ hơn xem pain này đã có dấu hiệu thật chưa, metric có đo được không, và phần nào bắt buộc phải để con người kiểm tra thay vì giao hết cho AI.
+
+**Conclusion**
+Tôi thấy mình đã hiểu rõ hơn cách đi từ problem thật sang cách giải phù hợp: phải xác định đúng pain trước, nhìn nó trong workflow cụ thể, chọn metric để biết có cải thiện thật không, đặt boundary để biết phần nào AI được làm và phần nào con người phải giữ quyền quyết định. Nhờ vậy, tôi tự giải thích được vì sao một bài toán có thể hợp với AI nhưng chưa chắc hợp với agent, và trong case này workflow có human review hay không.
