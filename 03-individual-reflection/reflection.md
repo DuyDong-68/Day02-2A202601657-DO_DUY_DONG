@@ -1,5 +1,5 @@
 
-**03 — Individual Reflection Example**
+## 03 — Individual Reflection Example**
 | Hoạt động | Đông đã làm gì? | Kết quả |
 |---|---|---|
 | Scan cá nhân | Đưa ra 10 problems | Nhóm có nhiều candidate về reporting/workflow |
